@@ -1,4 +1,4 @@
-#Logistics
+# Logistics
 
 We meet on Wednesday 10.15-12.00 in AND-2-46. Office hours are Wednesday 13.00-15.00 or by appointment. You can get in touch with the instructor via steenbergen@ipz.uzh.ch or via the OLAT forum.
 Description
@@ -9,7 +9,7 @@ Since text and vision play an important role in the social sciences, it is no su
 
 This course provides an introduction to deep learning methods for social scientists with a focus on image and text classification. It does so using Python, arguably the most important programming language for deep learning. After familiarizing you with Python and the basics of deep learning, we embark on a journey of the most important algorithms currently used to classify texts and images. Aside from exposure to theoretical aspects of deep learning, you will obtain hands-on experience programming and using image and text classifiers.
 
-#Objectives
+# Objectives
 
 Upon completing the course you should
 
@@ -19,6 +19,6 @@ Upon completing the course you should
 - Be able to implement algorithms that help to classify texts and images.
 - Be proficient in using the classifications to answer substantive research questions.
 
-#Prerequisites
+# Prerequisites
 
 Prior knowledge of Python is not a course requirement. However, it helps when you possess good R programming skills. Since this is an advanced course in machine learning, we do not have time to dwell on basic topics such as machine learning workflows, re-sampling techniques, and various performance metrics. Ideally, participants should have successfully completed “Introduction to Data Science” or a similar introductory machine learning course. Otherwise, they should be prepared to catch up on machine learning basics prior to the course start. For suggested readings and course materials, please contact Prof. Steenbergen.
