@@ -28,8 +28,8 @@ Prior knowledge of Python is not a course requirement. However, it helps when yo
 - 28.02: Introduction to Python
 - 06.03: Classes and Pytorch Linear Models
 - 20.03: Multilayer Perceptrons Pytorch
-  (HW: 27.03: code notebook on data analysis and simple NN)
+- (HW: 27.03: code notebook on data analysis and simple NN)
 - 03.04: CNN (Images) with Pytorch and Hugging Face
-  (HW: 21.04: code notebook on images)
+- (HW: 21.04: code notebook on images)
 - 15.05: Transformers with Pytorch and embeddings with R
-  (HW: 21.04: code notebook on text)
+- (HW: 21.04: code notebook on text)
