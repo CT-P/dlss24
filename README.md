@@ -22,3 +22,14 @@ Upon completing the course you should
 # Prerequisites
 
 Prior knowledge of Python is not a course requirement. However, it helps when you possess good R programming skills. Since this is an advanced course in machine learning, we do not have time to dwell on basic topics such as machine learning workflows, re-sampling techniques, and various performance metrics. Ideally, participants should have successfully completed “Introduction to Data Science” or a similar introductory machine learning course. Otherwise, they should be prepared to catch up on machine learning basics prior to the course start. For suggested readings and course materials, please contact Prof. Steenbergen.
+
+# Labs' dates
+
+- 28.02: Introduction to Python
+- 06.03: Classes and Pytorch Linear Models
+- 20.03: Multilayer Perceptrons Pytorch
+  (HW: 27.03: code notebook on data analysis and simple NN)
+- 03.04: CNN (Images) with Pytorch and Hugging Face
+  (HW: 21.04: code notebook on images)
+- 15.05: Transformers with Pytorch and embeddings with R
+  (HW: 21.04: code notebook on text)
